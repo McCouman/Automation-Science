@@ -4,12 +4,14 @@
 
 Das Software Magazin ASCi (Automation Science) ist als unabhängige Quelle anzusehen. Es Dokumentiert Erkenntnisse und Wissenthemen rund um Hacking, Software Testing, Software Engineering, Security und versucht einfach und verständlich, bestehende Automatismen und Vorgehensweisen zu erklären. 
 
-Es wird privat von Michael Kaufmann erstellt und wird ohne Gewähr auf Vollständigkeit publiziert. Es dient der Aufklärung, Erforschung neuer Themenfelder und ist als Ideenfindung und Script zu verstehen. 
+ASCi erscheint jedes Quatal einmal und wird privat von Michael Kaufmann erstellt. Es wird ohne Gewähr auf Vollständigkeit hier und über die Website von LAoP (Frei Akademie der Philosophie) publiziert. Es dient der Aufklärung, Erforschung neuer Themenfelder und ist als Ideenfindung und rein als Informations-Script zu verstehen. 
 
 ### Quatale 2019
 
-1.) <a href="https://github.com/McCouman/Automation-Science/raw/master/ASCi001-2019.pdf">ASCi001-2019.pdf</a>
-
+1.) <a href="https://github.com/McCouman/Automation-Science/raw/master/ASCi001-2019.pdf">ASCi001-2019.pdf</a> Thema: _Ist 2FA sicher vor Phishing und Man-in-the-middle Attaken?_
+2.) Thema: _noch nicht bekannt_
+3.) Thema: _noch nicht bekannt_
+4.) Thema: _noch nicht bekannt_
 
 
 
