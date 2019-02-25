@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/McCouman/Automation-Science/master/Screenshot.png" title="Automation Science">
 
-Das Software Magazin ASCi (Automation Science) ist als unabhängige Quelle anzusehen. Es Dokumentiert Erkenntnisse und Wissenthemen rund um Hacking, Software Testing, Software Engineering, Security und versucht einfach und verständlich bestehende Automatismen zu erklären.
+Das Software Magazin ASCi (Automation Science) ist als unabhängige Quelle anzusehen. Es Dokumentiert Erkenntnisse und Wissenthemen rund um Hacking, Software Testing, Software Engineering, Security und versucht einfach und verständlich, bestehende Automatismen und Vorgehensweisen zu erklären. 
 
 Es wird privat von Michael Kaufmann erstellt und wird ohne Gewähr auf Vollständigkeit publiziert. Es dient der Aufklärung, Erforschung neuer Themenfelder und ist als Ideenfindung und Script zu verstehen. 
 
