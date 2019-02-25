@@ -8,13 +8,17 @@ ASCi erscheint jedes Quatal einmal und wird privat von Michael Kaufmann erstellt
 
 ### Quatale 2019
 
-1.) <a href="https://github.com/McCouman/Automation-Science/raw/master/ASCi001-2019.pdf">ASCi001-2019.pdf</a> Thema: _Ist 2FA sicher vor Phishing und Man-in-the-middle Attaken?_
-2.) Thema: _noch nicht bekannt_
-3.) Thema: _noch nicht bekannt_
-4.) Thema: _noch nicht bekannt_
+* <a href="https://github.com/McCouman/Automation-Science/raw/master/ASCi001-2019.pdf">ASCi001-2019.pdf</a> - Q1 Thema: _Ist 2FA sicher vor Phishing und Man-in-the-middle Attaken?_
+* Q2 Thema: _noch nicht bekannt_
+* Q3 Thema: _noch nicht bekannt_
+* Q4 Thema: _noch nicht bekannt_
 
+### Quatale 2020
 
-
+* Q1 Thema: _noch nicht bekannt_
+* Q2 Thema: _noch nicht bekannt_
+* Q3 Thema: _noch nicht bekannt_
+* Q4 Thema: _noch nicht bekannt_
 
 Die Dokumente stehen unter der CC-BY-NC-SA und dürfen frei verbreitet werden: 
 
